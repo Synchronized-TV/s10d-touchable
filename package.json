@@ -7,7 +7,7 @@
     "Julien Bouquillon <julien.bouquillon@synchronized.tv>"
   ],
   "user": "synchronized",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "karma start",
