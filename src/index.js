@@ -17,7 +17,7 @@ export default class Touchable extends Component {
     onPress: PropTypes.func,
     onPinch: PropTypes.func,
     onRotate: PropTypes.func,
-    stopPropagation: PropTypes.boolean,
+    stopPropagation: PropTypes.bool,
     children: PropTypes.any
   };
 
