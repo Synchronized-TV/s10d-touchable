@@ -1,5 +1,18 @@
 /* TODO: insert main styles of your demo here */
 
+.touched {
+    background: rgba(255, 255, 255, 0.5) !important;
+}
+
+.button {
+    border:1px solid #222;
+    background: #DDD;
+    color: black;
+    padding: 5px 10px;
+    width: 200px;
+    margin:10px;
+}
+
 body {
     background: #fefefe;
 

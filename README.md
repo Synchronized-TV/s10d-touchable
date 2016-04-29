@@ -1,4 +1,6 @@
-[![build status](https://secure.travis-ci.org/Synchronized-TV/s10d-touchable.png)](http://travis-ci.org/Synchronized-TV/s10d-touchable) [![bitHound Score](https://www.bithound.io/github/Synchronized-TV/s10d-touchable/badges/score.svg)](https://www.bithound.io/github/Synchronized-TV/s10d-touchable) [![Dependency Status](https://david-dm.org/Synchronized-TV/s10d-touchable.svg)](https://david-dm.org/Synchronized-TV/s10d-touchable)
+[![npm version](https://img.shields.io/npm/v/s10d-touchable.svg?style=flat-square)](https://www.npmjs.org/package/s10d-touchable)
+[![Dependency Status](https://david-dm.org/Synchronized-TV/s10d-touchable.svg)](https://david-dm.org/Synchronized-TV/s10d-touchable)
+
 # s10d-touchable
 
 Cross platform Touch component for ReactJS
